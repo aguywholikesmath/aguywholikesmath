@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on codeparade
 - 😄 Pronouns: he, him 
-- ⚡ Fun fact: IM SIX YEARS OLD
+- ⚡ Fun fact: IM 7 YEARS OLD
 
 <!---
 aguywholikesmath/aguywholikesmath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
