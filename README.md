@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aguywholikesmath
 - 👀 I’m interested in math
-- 🌱 I’m currently learning python programming 
+- pretty good at python
 - 😄 Pronouns: he, him 
 - ⚡ Fun fact: IM 7 YEARS OLD
 
