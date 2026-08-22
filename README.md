@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aguywholikesmath
+- 👋 Hi, I’m @tst_off
 - 👀 I’m interested in math
 - pretty good at python
 - 😄 Pronouns: he, him 
